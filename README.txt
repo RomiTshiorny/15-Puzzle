@@ -35,6 +35,6 @@ The input to the command line follows the following format:
                   "123456789BC DAEF" AStar h2
                   
   (NOTICE) There are two valid "goal" states:
-                  
+  
                   "123456789ABCDEF " AND "123456789ABCDFE "
                   (i.e F and E are interchangable).
